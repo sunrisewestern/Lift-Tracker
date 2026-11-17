@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lift Tracker</string>
+    <string name="export_permission_label">Read Lift Tracker workout exports</string>
+    <string name="export_permission_description">Allows the app to read your logged workouts from Lift Tracker.</string>
+</resources>

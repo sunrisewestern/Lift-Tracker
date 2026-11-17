@@ -1,0 +1,38 @@
+.gradle/
+build/
+local.properties
+.idea/
+*.iml
+.DS_Store
+.kotlin/
+captures/
+
+# Release artifacts and signing keys – never commit these
+dist/
+*.apk
+*.aab
+*.jks
+*.keystore
+
+# Local tool state
+CLAUDE.md
+.claude/
+.omc/
+.agent
+.agents/
+
+# craft-anything workspace and investigation output
+.craft-anything*
+craft.json
+feed.json
+questions.json
+transcript.json
+usage.json
+build-activity.log
+capture/
+inbox/
+investigation.cany/
+reference/
+routines/
+app/MECHANICS.md
+app/mechanics.json
